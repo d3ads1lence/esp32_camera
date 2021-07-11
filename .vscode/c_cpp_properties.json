@@ -3,7 +3,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "~/esp/esp-idf/components/**"
+                "~/esp/esp-idf/components/**",
+                "~/esp/esp-idf/examples/common_components/protocol_examples_common/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
